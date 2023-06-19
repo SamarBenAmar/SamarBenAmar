@@ -7,8 +7,6 @@
 
 - 🤝 I’m open to share **knowledge, experiences and opinions**
 
-- 👨‍💻 All of my projects are available at [https://samarbenamar.github.io/online-portfolio-angular](https://samarbenamar.github.io/online-portfolio-angular)
-
 - 📝 I regularly write articles on [https://medium.com/@samar.benamar](https://medium.com/@samar.benamar)
 
 - 💬 Ask me about **everything related to IT**
