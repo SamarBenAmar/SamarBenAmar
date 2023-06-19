@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samar</h1>
 <h3 align="center">A passionate software engineer from Tunisia</h3>
 
-- 🔭 I’m currently working as intern at [Code Once](https://www.codeonce.fr)
-
 - 🌱 I’m passionate about **Systems design and architecture**
 
 - 👯 I’m looking to collaborate on **anything that can make life better**
