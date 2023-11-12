@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **samar.benamar.sba@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ss8QQUZ9tSxjD-GFIHdSTEQgVYtVMTIy/view?usp=sharing](https://drive.google.com/file/d/1Ss8QQUZ9tSxjD-GFIHdSTEQgVYtVMTIy/view?usp=sharing)
+<!-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ss8QQUZ9tSxjD-GFIHdSTEQgVYtVMTIy/view?usp=sharing](https://drive.google.com/file/d/1Ss8QQUZ9tSxjD-GFIHdSTEQgVYtVMTIy/view?usp=sharing)->
 
 - ⚡ IT Best Quote **"Your code will speak to you only when you listen" — John Ousterhout**
 
