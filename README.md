@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **everything related to IT**
 
-- 📫 How to reach me **samar.benamar.sba@gmail.com**
+- 📫 How to reach me **samar.benamar@codeonce.fr**
 
 <!-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ss8QQUZ9tSxjD-GFIHdSTEQgVYtVMTIy/view?usp=sharing](https://drive.google.com/file/d/1Ss8QQUZ9tSxjD-GFIHdSTEQgVYtVMTIy/view?usp=sharing)-->
 
